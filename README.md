@@ -1,1 +1,1 @@
-# daliy
+# daily
